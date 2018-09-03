@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for IDC on Kubernetes
+name: idc
+version: 0.1.0

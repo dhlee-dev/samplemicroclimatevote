@@ -1,0 +1,53 @@
+{
+  "projectID": "2d5142d0-af43-11e8-950a-37e8a5f4539a",
+  "name": "samplemicroclimatevote",
+  "language": "java",
+  "framework": "microprofile",
+  "host": "172.18.0.5",
+  "ports": {
+    "exposedPort": "32772",
+    "internalPort": "9080"
+  },
+  "applicationRunning": false,
+  "workspace": "/microclimate-workspace/",
+  "directory": "samplemicroclimatevote",
+  "locOnDisk": "/microclimate-workspace/samplemicroclimatevote",
+  "loadTestPath": "/microclimate-workspace/samplemicroclimatevote/load-test",
+  "buildLogPath": "/microclimate-workspace/.logs/mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5.build.log",
+  "state": "open",
+  "autoBuild": true,
+  "appStatus": "started",
+  "buildStatus": "success",
+  "detailedBuildStatus": " ",
+  "lastbuild": 1535961553086,
+  "projectType": "liberty",
+  "location": "/microclimate-workspace/samplemicroclimatevote",
+  "operation": {
+    "operationId": "1e5a0ff900951566cfe541feb32af6c1",
+    "type": "validate",
+    "projectInfo": {
+      "projectType": "liberty",
+      "location": "/microclimate-workspace/samplemicroclimatevote",
+      "projectID": "2d5142d0-af43-11e8-950a-37e8a5f4539a"
+    }
+  },
+  "validationStatus": "success",
+  "validationResults": [],
+  "containerId": "99eadb6de301fddb23ef1ccd83821052c9cbdc784a353c0a257f0b33c5ceb96d",
+  "logs": {
+    "build": {
+      "origin": "workspace",
+      "file": "/microclimate-workspace/.logs/mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5.build.log"
+    },
+    "app": {
+      "origin": "container",
+      "file": [
+        "/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/messages.log",
+        "/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/console.log"
+      ],
+      "dir": "/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/ffdc"
+    }
+  },
+  "appErrorStatus": "애플리케이션이 예기치 않게 중지되었습니다. 세부사항은 애플리케이션 로그를 확인하십시오.",
+  "buildRequired": false
+}

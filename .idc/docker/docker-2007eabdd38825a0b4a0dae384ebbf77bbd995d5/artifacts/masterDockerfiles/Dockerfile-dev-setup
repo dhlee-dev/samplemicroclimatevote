@@ -1,0 +1,17 @@
+#*******************************************************************************
+# Licensed Materials - Property of IBM
+# "Restricted Materials of IBM"
+#
+# Copyright IBM Corp. 2018 All Rights Reserved
+#
+# US Government Users Restricted Rights - Use, duplication or disclosure
+# restricted by GSA ADP Schedule Contract with IBM Corp.
+#*******************************************************************************
+
+RUN echo unset LOG_DIR >> /root/.bashrc && \
+	echo unset WLP_OUTPUT_DIR >> /root/.bashrc
+
+COPY /artifacts /root/artifacts/
+RUN chmod -R +rx /root/artifacts/
+
+CMD ["/root/artifacts/new_entrypoint.sh"]

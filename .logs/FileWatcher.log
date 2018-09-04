@@ -5018,3 +5018,203 @@ INFO Mon Sep 03 08:32:26 GMT 2018] Updating build state for project samplemicroc
 [INFO Tue Sep 4 00:26:32 UTC 2018 | Project: FileWatcher] File-watcher locale has been set to: ko
 [INFO Tue Sep 4 00:29:10 UTC 2018 | Project: FileWatcher] Setting up file-watcher locale.
 [INFO Tue Sep 4 00:29:10 UTC 2018 | Project: FileWatcher] File-watcher locale has been set to: ko
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] Updating container for liberty project /microclimate-workspace/samplemicroclimatevote
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] The log name for 2d5142d0-af43-11e8-950a-37e8a5f4539a is mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] Container name: mc-samplemicroclimatevote
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] Log name: mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] In K8 environment: undefined
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] Now tracking running process 628 for project 2d5142d0-af43-11e8-950a-37e8a5f4539a
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] Updating project build required state to false
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] Emitting event over socket 
+ message: projectStatusChanged
+ data: {
+  "projectID": "2d5142d0-af43-11e8-950a-37e8a5f4539a",
+  "buildRequired": false
+}
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] *** JAVA
+*** PWD = /server
+*** ROOT = /microclimate-workspace/samplemicroclimatevote
+*** LOCAL_WORKSPACE = /C/icplab/programs/microclimate-18.08/microclimate-workspace
+*** PROJECT_ID = 2d5142d0-af43-11e8-950a-37e8a5f4539a
+*** COMMAND = update
+*** CONTAINER_NAME = mc-samplemicroclimatevote
+*** HOST_OS = windows
+
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] File changes detected for app /microclimate-workspace/samplemicroclimatevote. Initiating update.
+
+[INFO Tue Sep 4 00:42:48 UTC 2018 | Project: samplemicroclimatevote] idc build started for /microclimate-workspace/samplemicroclimatevote Tue Sep  4 00:42:48 UTC 2018
+
+[INFO Tue Sep 4 00:42:49 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:49 GMT 2018] Configuration file detected: 
+[INFO Tue Sep 4 00:42:49 UTC 2018 | Project: samplemicroclimatevote] 
+
+[INFO Tue Sep 4 00:42:49 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:49 GMT 2018] libertyEnv : microclimate
+
+[INFO Tue Sep 4 00:42:49 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:49 GMT 2018] appPrefix : microclimate-dev-liberty-
+
+[INFO Tue Sep 4 00:42:49 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:49 GMT 2018] idcBasePath : /microclimate-workspace
+
+[INFO Tue Sep 4 00:42:49 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:49 GMT 2018] Selected Dockerfile from Dockerfile list [Dockerfile, Dockerfile-lang, Dockerfile-dev] is: Dockerfile-lang
+
+[INFO Tue Sep 4 00:42:49 UTC 2018 | Project: samplemicroclimatevote] 
+
+[INFO Tue Sep 4 00:42:49 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:49 GMT 2018] Selected Dockerfile from Dockerfile list [Dockerfile-dev-build, Dockerfile-build] is: Dockerfile-build
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:50 GMT 2018] ----
+[INFO Tue Sep 04 00:42:50 GMT 2018] Container Image already present: mc-samplemicroclimatevote
+[INFO Tue Sep 04 00:42:50 GMT 2018] Skipping image build. 
+[INFO Tue Sep 04 00:42:50 GMT 2018] ----
+
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:50 GMT 2018] Log file name for build: mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5
+
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:50 GMT 2018] Compiling application for project samplemicroclimatevote
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] 
+
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] 
+
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:42:50 GMT 2018] Updating build state for project samplemicroclimatevote(2d5142d0-af43-11e8-950a-37e8a5f4539a) to: inProgress
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] Build state changed for project: 2d5142d0-af43-11e8-950a-37e8a5f4539a from: success, to: inProgress, with message: buildApplicationTask.compileApplication
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: FileWatcher] Initialized File-watcher NLS Instance to: ko
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] Emitting event over socket 
+ message: projectStatusChanged
+ data: {
+  "projectID": "2d5142d0-af43-11e8-950a-37e8a5f4539a",
+  "buildStatus": "inProgress",
+  "detailedBuildStatus": "애플리케이션 컴파일 중"
+}
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] Maven build output directory is set to /tmp/liberty
+
+[INFO Tue Sep 4 00:42:50 UTC 2018 | Project: samplemicroclimatevote] Start mvn compile for mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5 Tue Sep  4 00:42:50 UTC 2018
+mvn -B compile -DskipTests=true -DlibertyEnv=microclimate -DmicroclimateOutputDir=/tmp/liberty --log-file /root/logs/mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5.build.log
+
+[INFO Tue Sep 4 00:43:03 UTC 2018 | Project: samplemicroclimatevote] Finished mvn compile for mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5 Tue Sep  4 00:43:03 UTC 2018
+
+[INFO Tue Sep 4 00:43:03 UTC 2018 | Project: samplemicroclimatevote] [INFO] Scanning for projects...
+[INFO] 
+
+[INFO Tue Sep 4 00:43:03 UTC 2018 | Project: samplemicroclimatevote] [INFO] ---------------< sample.microclimate:microservice-vote >----------------
+[INFO] Building Conference :: Vote 1.0.0-SNAPSHOT
+[INFO] --------------------------------[ war ]---------------------------------
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml (499 B at 207 B/s)
+
+[INFO Tue Sep 4 00:43:03 UTC 2018 | Project: samplemicroclimatevote] [INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml (498 B at 182 B/s)
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-agent/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-agent/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-agent/1.2.1-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.3 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml (498 B at 1.4 kB/s)
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml (457 B at 521 B/s)
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-dash/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-dash/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-dash/1.2.1-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.4 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml (374 B at 1.2 kB/s)
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml (296 B at 341 B/s)
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-rest/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-rest/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-rest/1.2.1-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.4 kB/s)
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ microservice-vote ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/app/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ microservice-vote ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 10.117 s
+[INFO] Finished at: 2018-09-04T00:43:03Z
+[INFO] ------------------------------------------------------------------------
+
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Validating project: {"projectType":"liberty","location":"/microclimate-workspace/samplemicroclimatevote","projectID":"2d5142d0-af43-11e8-950a-37e8a5f4539a"} using operationId: 017c4018b0fed0e4089015897492e673
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Checking for required files
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Checking for required file /Dockerfile
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Checking for required file /Dockerfile-lang
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] [INFO Tue Sep 04 00:43:04 GMT 2018] Application build completed for project samplemicroclimatevote
+[INFO Tue Sep 04 00:43:04 GMT 2018] Updating build state for project samplemicroclimatevote(2d5142d0-af43-11e8-950a-37e8a5f4539a) to: success
+
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Checking for required file /Dockerfile-build
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Emitting event over socket 
+ message: projectStatusChanged
+ data: {
+  "projectID": "2d5142d0-af43-11e8-950a-37e8a5f4539a",
+  "buildStatus": "success",
+  "detailedBuildStatus": " ",
+  "lastbuild": 1536021784134
+}
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Build state changed for project: 2d5142d0-af43-11e8-950a-37e8a5f4539a from: inProgress, to: success, with message:  
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Kicking off validation for project: 2d5142d0-af43-11e8-950a-37e8a5f4539a
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Checking for required file /pom.xml
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] The container was started successfully for application /microclimate-workspace/samplemicroclimatevote
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Looking up container information for mc-samplemicroclimatevote
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Checking for required file /src/main/liberty/config/server.xml
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Found container information: {"containerId":"99eadb6de301fddb23ef1ccd83821052c9cbdc784a353c0a257f0b33c5ceb96d","ip":"172.18.0.5","exposedPort":"32772","internalPort":"9080"}
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] The log name for 2d5142d0-af43-11e8-950a-37e8a5f4539a is mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] buildlog path is :
+ {"origin":"workspace","file":"/microclimate-workspace/.logs/mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5.build.log"}
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Looking for file existency for /tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/messages.log in container mc-samplemicroclimatevote
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] idc build finished for /microclimate-workspace/samplemicroclimatevote Tue Sep  4 00:43:04 UTC 2018
+/server
+
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Sending validation result
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Emitting event over socket 
+ message: projectValidated
+ data: {
+  "operationId": "017c4018b0fed0e4089015897492e673",
+  "projectType": "liberty",
+  "location": "/microclimate-workspace/samplemicroclimatevote",
+  "projectID": "2d5142d0-af43-11e8-950a-37e8a5f4539a",
+  "status": "success",
+  "results": [],
+  "operation": {
+    "operationId": "017c4018b0fed0e4089015897492e673",
+    "type": "validate",
+    "projectInfo": {
+      "projectType": "liberty",
+      "location": "/microclimate-workspace/samplemicroclimatevote",
+      "projectID": "2d5142d0-af43-11e8-950a-37e8a5f4539a"
+    }
+  }
+}
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] File exists in container:       true
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Looking for file existency for /tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/console.log in container mc-samplemicroclimatevote
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] File exists in container:       true
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Looking for file existency for /tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/ffdc in container mc-samplemicroclimatevote
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] applogs are :
+{"origin":"container","file":["/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/messages.log","/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/console.log"],"dir":"/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/ffdc"}
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] File exists in container:       false
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Emitted event: projectChanged
+{"operationId":"31d41dda574d514a9837679bbc9f1fd6","projectID":"2d5142d0-af43-11e8-950a-37e8a5f4539a","status":"success","host":"172.18.0.5","ports":{"exposedPort":"32772","internalPort":"9080"},"containerId":"99eadb6de301fddb23ef1ccd83821052c9cbdc784a353c0a257f0b33c5ceb96d","logs":{"build":{"origin":"workspace","file":"/microclimate-workspace/.logs/mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5.build.log"},"app":{"origin":"container","file":["/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/messages.log","/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/console.log"],"dir":"/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/ffdc"}}}
+[INFO Tue Sep 4 00:43:04 UTC 2018 | Project: samplemicroclimatevote] Emitting event over socket 
+ message: projectChanged
+ data: {
+  "operationId": "31d41dda574d514a9837679bbc9f1fd6",
+  "projectID": "2d5142d0-af43-11e8-950a-37e8a5f4539a",
+  "status": "success",
+  "host": "172.18.0.5",
+  "ports": {
+    "exposedPort": "32772",
+    "internalPort": "9080"
+  },
+  "containerId": "99eadb6de301fddb23ef1ccd83821052c9cbdc784a353c0a257f0b33c5ceb96d",
+  "logs": {
+    "build": {
+      "origin": "workspace",
+      "file": "/microclimate-workspace/.logs/mc-2d5142d0-af43-11e8-950a-37e8a5f4539a-2007eabdd38825a0b4a0dae384ebbf77bbd995d5.build.log"
+    },
+    "app": {
+      "origin": "container",
+      "file": [
+        "/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/messages.log",
+        "/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/console.log"
+      ],
+      "dir": "/tmp/liberty/liberty/wlp/usr/servers/defaultServer/logs/ffdc"
+    }
+  }
+}

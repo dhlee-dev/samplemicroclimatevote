@@ -3,6 +3,30 @@
 [INFO] ---------------< sample.microclimate:microservice-vote >----------------
 [INFO] Building Conference :: Vote 1.0.0-SNAPSHOT
 [INFO] --------------------------------[ war ]---------------------------------
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml (499 B at 207 B/s)
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-agent/maven-metadata.xml (498 B at 182 B/s)
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-agent/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-agent/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-agent/1.2.1-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.3 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml (498 B at 1.4 kB/s)
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-dash/maven-metadata.xml (457 B at 521 B/s)
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-dash/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-dash/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-dash/1.2.1-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.4 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml (374 B at 1.2 kB/s)
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-rest/maven-metadata.xml (296 B at 341 B/s)
+[INFO] Downloading from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-rest/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/ibm/runtimetools/javametrics-rest/1.2.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from oss.sonatype.org-snapshot: http://oss.sonatype.org/content/repositories/snapshots/com/ibm/runtimetools/javametrics-rest/1.2.1-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.4 kB/s)
 [INFO] 
 [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ microservice-vote ---
 [INFO] Using 'UTF-8' encoding to copy filtered resources.
@@ -13,6 +37,6 @@
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 2.217 s
-[INFO] Finished at: 2018-09-03T08:32:31Z
+[INFO] Total time: 10.117 s
+[INFO] Finished at: 2018-09-04T00:43:03Z
 [INFO] ------------------------------------------------------------------------

@@ -19,11 +19,11 @@
   "appStatus": "started",
   "buildStatus": "success",
   "detailedBuildStatus": " ",
-  "lastbuild": 1535963551865,
+  "lastbuild": 1536021784134,
   "projectType": "liberty",
   "location": "/microclimate-workspace/samplemicroclimatevote",
   "operation": {
-    "operationId": "2393a7472c9a2ca00374686a68c45a5e",
+    "operationId": "017c4018b0fed0e4089015897492e673",
     "type": "validate",
     "projectInfo": {
       "projectType": "liberty",
@@ -50,5 +50,10 @@
   },
   "appErrorStatus": "애플리케이션이 예기치 않게 중지되었습니다. 세부사항은 애플리케이션 로그를 확인하십시오.",
   "buildRequired": false,
-  "custom": {}
+  "custom": {
+    "pipeline": {
+      "namespace": "default",
+      "project": "votepl"
+    }
+  }
 }
